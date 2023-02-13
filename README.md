@@ -19,11 +19,21 @@ Clone the project into your LiteX installation's root folder.
 
 ```console
 git clone https://github.com/adamhlt/LiteX-CVA6.git pythondata-cpu-cva6
+python3 -m pip install --editable pythondata-cpu-cva6
+```
+
+You can now try to run the simulation.
+
+```console
+litex_sim --cpu-type=cva6
 ```
 
 ## 🧪 Demonstration :
 
 LiteX Simulation of CVA6 CPU.
+
+<img width="435" alt="Demo" src="https://user-images.githubusercontent.com/48086737/218577012-4533dbf2-bd4c-4f00-92cf-130594f23355.png">
+
 
 ## :crown: Credit :
 
