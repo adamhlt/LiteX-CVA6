@@ -1,3 +1,4 @@
+![Project Banner](https://user-images.githubusercontent.com/48086737/218576572-cbd895b1-f838-4967-ac1d-c9ec0ea7a9a6.png)
 # LiteX CVA6
 
 [![Python](https://img.shields.io/badge/language-Python3-%23f34b7d.svg?style=for-the-badge&logo=appveyor)](https://www.python.org) 
@@ -20,6 +21,9 @@ Clone the project into your LiteX installation's root folder.
 git clone https://github.com/adamhlt/LiteX-CVA6.git pythondata-cpu-cva6
 ```
 
+## 🧪 Demonstration :
+
+LiteX Simulation of CVA6 CPU.
 
 ## :crown: Credit :
 
