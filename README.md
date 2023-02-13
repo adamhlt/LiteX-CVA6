@@ -23,6 +23,6 @@ git clone https://github.com/adamhlt/LiteX-CVA6.git pythondata-cpu-cva6
 
 ## :crown: Credit :
 
-- ![LiteX](https://github.com/enjoy-digital/litex)
-- ![Original Repo](https://github.com/litex-hub/pythondata-cpu-cva6)
-- ![CVA6 Repo](https://github.com/openhwgroup/cva6)
+- [LiteX](https://github.com/enjoy-digital/litex) : Very powerful SoC generator.
+- [Original Repo](https://github.com/litex-hub/pythondata-cpu-cva6) : Initial repository of the CVA6 integration into LiteX.
+- [CVA6 Repo](https://github.com/openhwgroup/cva6) : Official repository of CVA6 CPU.
