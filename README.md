@@ -1,8 +1,18 @@
-![Project Banner](https://user-images.githubusercontent.com/48086737/218576572-cbd895b1-f838-4967-ac1d-c9ec0ea7a9a6.png)
-# LiteX CVA6
-
-[![LiteX](https://img.shields.io/badge/Library-LiteX-red.svg?style=for-the-badge&logo=appveyor)](https://github.com/enjoy-digital/litex)
-[![CVA6](https://img.shields.io/badge/CPU-CVA6-yellow.svg?style=for-the-badge&logo=appveyor)](https://github.com/openhwgroup/cva6) 
+```
+                            __    _ __      _  __    _______    _____   _____ 
+                           / /   (_) /____ | |/ /   / ____/ |  / /   | / ___/
+                          / /   / / __/ _ \|   /   / /    | | / / /| |/ __ \ 
+                         / /___/ / /_/  __/   |   / /___  | |/ / ___ / /_/ /
+                        /_____/_/\__/\___/_/|_|   \____/  |___/_/  |_\____/
+                                                                          
+                                                                        
+                                            LiteX CVA6 
+                       Fixed integration of the CPU into LiteX SoC generator
+```
+<p align="center">
+    <img src="https://img.shields.io/badge/Library-LiteX-red.svg?style=for-the-badge&logo=appveyor" alt="LiteX">
+    <img src="https://img.shields.io/badge/CPU-CVA6-yellow.svg?style=for-the-badge&logo=appveyor" alt="CVA6">
+</p> 
 
 ## :book: Project Overview :
 
